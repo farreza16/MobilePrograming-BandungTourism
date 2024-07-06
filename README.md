@@ -1,6 +1,6 @@
-# nuranisah_uts
+# Bandung Tourism
 
-A new Flutter project.
+Flutter Project Ui
 
 ## Getting Started
 
